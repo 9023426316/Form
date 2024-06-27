@@ -4,13 +4,14 @@ body{
     box-sizing: border-box;
 }
 .cf{
-    width: 300px;
+    color: white;
     margin-top: 50px;
-    border: 1px solid darkblue;
+    border: 1px solid rgb(105, 105, 184);
     /* background-color: lightblue; */
-    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
-    padding: 100px;
-    border-radius: 50px;
+    /* background:linear-gradient(to bottom, rgb(203, 116, 22) 0%, rgb(231, 182, 84) 100%); */
+    background-color: rgb(12, 9, 71);
+    padding: 50px;
+    border-radius: 10px;
 }
 .cd{
     font-size: 20px;
